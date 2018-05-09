@@ -1,6 +1,5 @@
 // web-worker file
 
-
 var db;
 
 // Worker response
